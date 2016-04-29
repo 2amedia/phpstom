@@ -1,0 +1,8 @@
+<code_scheme name="Default (2)">
+  <codeStyleSettings language="PHP">
+    <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="8" />
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+</code_scheme>
