@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="erw" type="HTML" />
       <mapping pattern="eqwe" type="PLAIN_TEXT" />
+      <mapping pattern="ewqrqwer" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
