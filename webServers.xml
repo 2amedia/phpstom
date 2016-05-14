@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d5c972d1-eb53-4e99-9efc-7fd7f1fda1e0" name="92.53.114.98" url="http://4brigadira.ru">
+        <fileTransfer host="92.53.114.98" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/c/ck84591/" accessType="SFTP" username="ck84591" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" muteSftpMessages="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
