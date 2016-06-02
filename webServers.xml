@@ -9,6 +9,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="d4f2611a-542e-4d50-be91-c5183830fd35" name="89.111.176.244" url="http://89.111.176.244">
+        <fileTransfer host="89.111.176.244" port="22" rootFolder="/home/nlccosmr/www" accessType="SFTP" username="nlccosmr">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
