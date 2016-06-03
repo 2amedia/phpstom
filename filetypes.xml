@@ -5,6 +5,7 @@
       <mapping pattern="erw" type="HTML" />
       <mapping pattern="result_modifier" type="PHP" />
       <mapping ext="tar" type="PHP" />
+      <mapping pattern="tr" type="PLAIN_TEXT" />
       <mapping pattern="error_log" type="PLAIN_TEXT" />
       <mapping pattern="ewqrqwer" type="PLAIN_TEXT" />
       <mapping pattern="authorized_keys" type="PLAIN_TEXT" />
