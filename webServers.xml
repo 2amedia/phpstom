@@ -17,6 +17,22 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="26eeb172-fe70-4968-ab58-60187e217fff" name="bitrix266.timeweb.ru" url="http://bitrix266.timeweb.ru">
+        <fileTransfer host="bitrix266.timeweb.ru" port="22" accessType="SFTP" password="df9ddfc1df9bdfc2df9edfccdffddfcddfc8dfdfdfd8dfdb" username="multidom30">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="093b95b2-2173-4cb6-bafb-fc645e69359d" name="bitrix266.timeweb.ru " url="http://bitrix266.timeweb.ru">
+        <fileTransfer host="bitrix266.timeweb.ru" port="22" rootFolder="/home/m/multidom30" accessType="SFTP" password="df9ddfc1df9bdfc2df9edfccdffddfcddfc8dfdfdfd8dfdb" username="multidom30">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
