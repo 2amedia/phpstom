@@ -1,40 +1,8 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="e54a302d-5b66-41d0-a3b7-488fc1d751bf" name="sexcomfort.ru" url="http://bitrix262.timeweb.ru">
-        <fileTransfer host="bitrix262.timeweb.ru" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/s/sexkomfort" accessType="SFTP" username="sexkomfort" keyPair="true">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
       <webServer id="33598c2c-d405-4173-97ca-7906018a202e" name="178" url="http://domradio.amg34.timeweb.ru">
         <fileTransfer host="bitrix178.timeweb.ru" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/a/amg34/domradio.ru/" accessType="SFTP" username="amg34" keyPair="true">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="d4f2611a-542e-4d50-be91-c5183830fd35" name="89.111.176.244" url="http://89.111.176.244">
-        <fileTransfer host="89.111.176.244" port="22" rootFolder="/home/nlccosmr/public_html" accessType="SFTP" password="dfeedfc5dfeedff4df99df82dfdbdfeedff5dfe4df9cdf97" username="nlccosmr">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="26eeb172-fe70-4968-ab58-60187e217fff" name="bitrix266.timeweb.ru" url="http://bitrix266.timeweb.ru">
-        <fileTransfer host="bitrix266.timeweb.ru" port="22" accessType="SFTP" password="df9ddfc1df9bdfc2df9edfccdffddfcddfc8dfdfdfd8dfdb" username="multidom30">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="093b95b2-2173-4cb6-bafb-fc645e69359d" name="bitrix266.timeweb.ru " url="http://bitrix266.timeweb.ru">
-        <fileTransfer host="bitrix266.timeweb.ru" port="22" rootFolder="/home/m/multidom30" accessType="SFTP" password="df9ddfc1df9bdfc2df9edfccdffddfcddfc8dfdfdfd8dfdb" username="multidom30">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
