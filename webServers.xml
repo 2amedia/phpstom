@@ -1,6 +1,14 @@
 <application>
   <component name="WebServers">
     <option name="servers">
+      <webServer id="e54a302d-5b66-41d0-a3b7-488fc1d751bf" name="sexcomfort.ru" url="http://bitrix262.timeweb.ru">
+        <fileTransfer host="bitrix262.timeweb.ru" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/s/sexkomfort" accessType="SFTP" username="sexkomfort" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
       <webServer id="33598c2c-d405-4173-97ca-7906018a202e" name="178" url="http://domradio.amg34.timeweb.ru">
         <fileTransfer host="bitrix178.timeweb.ru" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/a/amg34/domradio.ru/" accessType="SFTP" username="amg34" keyPair="true">
           <advancedOptions>
