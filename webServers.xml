@@ -4,7 +4,7 @@
       <webServer id="c71068bf-421f-4855-bde9-44bb7c086d8e" name="samson" url="http://test.1090983.ru/">
         <fileTransfer host="www.1090983.ru" port="21" password="df9bdfe0df93dfcddf92dfefdf9fdfdc" username="samson">
           <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+            <advancedOptions controlEncoding="windows-1251" dataProtectionLevel="Private" forceListCommand="true" accurateTimestamps="ALWAYS" showHiddenFiles="true" />
           </advancedOptions>
           <option name="port" value="21" />
         </fileTransfer>
