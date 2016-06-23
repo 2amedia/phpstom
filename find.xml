@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '/Volumes/DATA/Users/paveltupikov/PhpstormProjects/ck84591 /include/ajax/call_me.php'" />
-    <option name="defaultScopeName" value="File '/Volumes/DATA/Users/paveltupikov/PhpstormProjects/ck84591 /include/ajax/call_me.php'" />
-    <option name="SEARCH_SCOPE" value="File '/Volumes/DATA/Users/paveltupikov/PhpstormProjects/ck84591 /include/ajax/call_me.php'" />
+    <option name="customScope" value="File '/Volumes/DATA/Users/paveltupikov/PhpstormProjects/samson/bitrix/templates/main/template_styles.css'" />
+    <option name="defaultScopeName" value="File '/Volumes/DATA/Users/paveltupikov/PhpstormProjects/samson/bitrix/templates/main/template_styles.css'" />
+    <option name="SEARCH_SCOPE" value="File '/Volumes/DATA/Users/paveltupikov/PhpstormProjects/samson/bitrix/templates/main/template_styles.css'" />
     <option name="FILE_MASK" value="*.php" />
   </component>
 </application>
