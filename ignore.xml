@@ -29,6 +29,31 @@
 *.iml
 out
 gen</template>
+      <template name="Bitrix"># Created by .ignore support plugin (hsz.mobi)</template>
+      <template name="Bitrix">#file types
+*error_log*
+*access_log*
+
+*.txt
+*.xml
+*.csv
+
+#bitrix base
+dbconn.php
+.settings.php
+
+#bitrix cache
+public_html/bitrix/cache/
+public_html/bitrix/stack_cache/
+public_html/bitrix/managed_cahe/
+public_html/bitrix/html_pages/
+public_html/bitrix/tmp/
+
+#bitrix backup
+public_html/bitrix/backup/
+
+#bitrix upload
+public_html/upload/</template>
     </userTemplates>
   </component>
 </application>
