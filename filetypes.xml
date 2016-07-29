@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="erw" type="HTML" />
       <mapping pattern="result_modifier" type="PHP" />
+      <mapping pattern="card_add_handler" type="PHP" />
       <mapping ext="tar" type="PHP" />
       <mapping pattern="authorized_keys" type="PLAIN_TEXT" />
       <mapping pattern="error_log" type="PLAIN_TEXT" />
