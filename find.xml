@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '/Volumes/DATA/Users/paveltupikov/PhpstormProjects/samson/bitrix/templates/main/template_styles.css'" />
-    <option name="defaultScopeName" value="File '/Volumes/DATA/Users/paveltupikov/PhpstormProjects/samson/bitrix/templates/main/template_styles.css'" />
-    <option name="SEARCH_SCOPE" value="File '/Volumes/DATA/Users/paveltupikov/PhpstormProjects/samson/bitrix/templates/main/template_styles.css'" />
+    <option name="customScope" value="File '.../public_html/bitrix/templates/samson/components/bitrix/catalog.element/detail_with/result_modifier.php - [samson_new2]'" />
+    <option name="defaultScopeName" value="File '.../public_html/bitrix/templates/samson/components/bitrix/catalog.element/detail_with/result_modifier.php - [samson_new2]'" />
+    <option name="SEARCH_SCOPE" value="File '.../public_html/bitrix/templates/samson/components/bitrix/catalog.element/detail_with/result_modifier.php - [samson_new2]'" />
     <option name="FILE_MASK" value="*.php" />
   </component>
 </application>
