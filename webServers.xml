@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="a6f8502c-a325-4214-8d4b-d59440242d80" name="UA-bitrix" url="http://www.all4coffee.com.ua">
+        <fileTransfer host="185.86.76.218" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/bitrix" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
