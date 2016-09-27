@@ -8,15 +8,16 @@
       <mapping pattern="2amedia" type="PHP" />
       <mapping ext="tar" type="PHP" />
       <mapping pattern="authorized_keys" type="PLAIN_TEXT" />
+      <mapping pattern="chek" type="PLAIN_TEXT" />
+      <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="error_log" type="PLAIN_TEXT" />
       <mapping pattern="access_log" type="PLAIN_TEXT" />
       <mapping pattern=".htaccess.restore" type="PLAIN_TEXT" />
-      <mapping pattern="file" type="PLAIN_TEXT" />
       <mapping pattern=".gitconfig" type="PLAIN_TEXT" />
       <mapping pattern="eqwe" type="PLAIN_TEXT" />
       <mapping pattern="known_hosts" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
-      <mapping pattern="config" type="PLAIN_TEXT" />
+      <mapping pattern="file" type="PLAIN_TEXT" />
       <mapping pattern="tr" type="PLAIN_TEXT" />
       <mapping pattern="ewqrqwer" type="PLAIN_TEXT" />
       <mapping pattern="e.php" type="PLAIN_TEXT" />
