@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../public_html/bitrix/templates/samson/components/bitrix/catalog.element/detail_with/result_modifier.php - [samson_new2]'" />
-    <option name="defaultScopeName" value="File '.../public_html/bitrix/templates/samson/components/bitrix/catalog.element/detail_with/result_modifier.php - [samson_new2]'" />
+    <option name="customScope" value="File '.../src/style/main.scss - [kaffit_redisign]'" />
+    <option name="defaultScopeName" value="File '.../src/style/main.scss - [kaffit_redisign]'" />
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../public_html/bitrix/templates/samson/components/bitrix/catalog.element/detail_with/result_modifier.php - [samson_new2]'" />
+    <option name="SEARCH_SCOPE" value="File '.../src/style/main.scss - [kaffit_redisign]'" />
   </component>
 </application>
