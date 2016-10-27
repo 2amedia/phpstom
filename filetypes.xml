@@ -20,6 +20,7 @@
       <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern="file" type="PLAIN_TEXT" />
       <mapping pattern="tr" type="PLAIN_TEXT" />
+      <mapping pattern="qeqwe" type="PLAIN_TEXT" />
       <mapping pattern="ewqrqwer" type="PLAIN_TEXT" />
       <mapping pattern="e.php" type="PLAIN_TEXT" />
       <mapping pattern="php" type="PLAIN_TEXT" />
