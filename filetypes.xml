@@ -13,6 +13,7 @@
       <mapping pattern="error_log" type="PLAIN_TEXT" />
       <mapping pattern="access_log" type="PLAIN_TEXT" />
       <mapping pattern="empty" type="PLAIN_TEXT" />
+      <mapping pattern="log" type="PLAIN_TEXT" />
       <mapping pattern=".htaccess.restore" type="PLAIN_TEXT" />
       <mapping pattern=".gitconfig" type="PLAIN_TEXT" />
       <mapping pattern="eqwe" type="PLAIN_TEXT" />
