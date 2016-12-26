@@ -1,6 +1,14 @@
 <application>
   <component name="WebServers">
     <option name="servers">
+      <webServer id="ecbaa871-ef33-49e0-89f6-50341a2386db" name="microline" url="http://95.213.176.250">
+        <fileTransfer host="95.213.176.250" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/var/www/vhosts/" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
       <webServer id="8be2d036-5979-4230-a683-ed03292566bc" name="1090983.ru" url="http://new.1090983.ru">
         <fileTransfer host="new.1090983.ru" port="21" rootFolder="/new.1090983.ru">
           <advancedOptions>
@@ -10,5 +18,8 @@
         </fileTransfer>
       </webServer>
     </option>
+  </component>
+  <component name="webServersAuthStorage">
+    <data>AAAAcCau11SGMmQKr6qPYbLLHNUNW3Vj8tjiSiYb+U/BwFYwC+lqdsyk51qwWkxIIWhqZKsgFTa/X/ezoU5mzNvcEhKgP2v4i/JdV6Beg/g7n/wzPJhphL8M41wzSRtGTTTqS7N9DbCem9XgvdUTL7mxGk5BuXE9zlLemt/noobbDazn</data>
   </component>
 </application>
