@@ -2,7 +2,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="8be2d036-5979-4230-a683-ed03292566bc" name="1090983.ru" url="http://new.1090983.ru">
-        <fileTransfer host="new.1090983.ru" port="21" rootFolder="/new.1090983.ru">
+        <fileTransfer host="new.1090983.ru" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
           </advancedOptions>
@@ -12,6 +12,6 @@
     </option>
   </component>
   <component name="webServersAuthStorage">
-    <data>AAAAcCau11SGMmQKr6qPYbLLHNUNW3Vj8tjiSiYb+U/BwFYwC+lqdsyk51qwWkxIIWhqZKsgFTa/X/ezoU5mzNvcEhKgP2v4i/JdV6Beg/g7n/wzPJhphL8M41wzSRtGTTTqS7N9DbCem9XgvdUTL7mxGk5BuXE9zlLemt/noobbDazn</data>
+    <data>AAAAsM2K9h3iBJTpLuD4JSgyMHHF54ziT3I4UC2bBrRgw90sVb/Ql43ScyaMcV9FU4K1uy6hAljmLYxw8D7dFAXM5Pk6jb8EQG7gXvboDHPONfIrq1QYNGa5LaQ5IMGquzHof9K/CprJQfrDbsH4+wOySppGPkH0+YxKjBRpD0eaxpKHRnsbCjFAKyR6TcfCVVf3VsQadqnzRByBTRo7OWTv1mEcwxbkbQwOOlMchUAuwl+YREZgVSACx8JH033Lte7o2A==</data>
   </component>
 </application>
